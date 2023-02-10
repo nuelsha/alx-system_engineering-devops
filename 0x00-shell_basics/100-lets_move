@@ -1,3 +1,2 @@
-100-lets_move
 #!/bin/bash
-mv [[:upper:]]* /tmp/u
+mv [[:upper:]]* /tmp/ui
